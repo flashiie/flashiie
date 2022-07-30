@@ -2,4 +2,4 @@
 
 - 📚 Full Stack Developer
 - 💻 Creating cool things for others to play with or work on.
-- :shark: [`rocketmta.com`](https://github.com/rocketmta) development lead
+- :shark: development lead at [`rocketmta.com`](https://github.com/rocketmta)
