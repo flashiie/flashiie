@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Vítor Ribeiro
+### Hey, I'm Vítor Ribeiro <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20">
 
 - 📚 Full Stack Developer
 - 💻 Creating cool things for others to play with or work on.
